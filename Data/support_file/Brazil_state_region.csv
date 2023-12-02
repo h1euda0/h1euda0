@@ -1,0 +1,28 @@
+﻿State,State_initial,region,region_initial
+ Acre,AC,North,N
+ Alagoas,AL,Northeast,NE
+ Amazonas,AM,North,N
+ Amapá,AP,North,N
+ Bahia,BA,Northeast,NE
+ Ceará,CE,Northeast,NE
+ Distrito Federal,DF,Central-west,CW
+ Espírito Santo,ES,Southeast,SE
+ Goiás,GO,Central-west,CW
+ Maranhão,MA,Northeast,NE
+ Minas Gerais,MG,Southeast,SE
+ Mato Grosso do Sul,MS,Central-west,CW
+ Mato Grosso,MT,Central-west,CW
+ Pará,PA,North,N
+ Paraíba,PB,Northeast,NE
+ Pernambuco,PE,Northeast,NE
+ Piauí,PI,Northeast,NE
+ Paraná,PR,South,S
+ Rio de Janeiro,RJ,Southeast,SE
+ Rio Grande do Norte,RN,Northeast,NE
+ Rondônia,RO,North,N
+ Roraima,RR,North,N
+ Rio Grande do Sul,RS,South,S
+ Santa Catarina,SC,South,S
+ Sergipe,SE,Northeast,NE
+ São Paulo,SP,Southeast,SE
+ Tocantins,TO,North,N
